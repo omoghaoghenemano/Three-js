@@ -3,20 +3,20 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d src/index.html",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.8.0"
+    "vite": "^2.8.6"
   },
   "dependencies": {
     "gh-pages": "^3.2.3",
     "three": "^0.138.3"
   },
   "main": "index.js",
-  "homepage": "https://github.com/omoghaoghenemano.io/urban-system",
+  "homepage": "https://omoghaoghenemano.github.io/urban-system/",
   "keywords": [],
   "author": "manoomogha",
   "license": "ISC",
