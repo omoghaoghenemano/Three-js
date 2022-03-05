@@ -1,0 +1,24 @@
+{
+  "name": "manoomogha1",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "three": "^0.138.3"
+  },
+  "main": "index.js",
+  "homepage": "https://github.com/omoghaoghenemano.io/manoomogha",
+  "keywords": [],
+  "author": "manoomogha",
+  "license": "ISC",
+  "description": ""
+}
